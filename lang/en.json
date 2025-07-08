@@ -1,0 +1,15 @@
+{
+    "rqg-character-importer": {
+      "buttonLabel": "Import RQG Character",
+      "notifications": {
+        "importStarted": "Importing character: {name}...",
+        "importSuccess": "Successfully imported character: {name}!"
+      },
+      "errors": {
+        "invalidJson": "The selected file is not a valid JSON file.",
+        "invalidDataStructure": "The JSON file does not have the expected character data structure.",
+        "importFailed": "The character import failed. Check the console (F12) for more details."
+      }
+    }
+  }
+  
